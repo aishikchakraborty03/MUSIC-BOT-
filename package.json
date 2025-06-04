@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.18.0",
+    "@distube/youtube": "^1.0.4",
+    "@distube/ytdl-core": "^4.16.11",
+    "discord.js": "^14.19.3",
+    "distube": "^5.0.7",
+    "youtube-search-api": "^1.2.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
